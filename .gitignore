@@ -1,6 +1,7 @@
 # custio
 /output
-
+/api_key
+/local_input
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
